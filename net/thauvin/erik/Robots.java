@@ -13,7 +13,7 @@ package net.thauvin.erik;
 
 /**
  * The <code>Robots</code> class contains a method used to identify a user-agent against a list of known search engines
- * crawlers, spiders and robots. spiders and crawlers.
+ * crawlers, spiders and robots.
  *
  * @author  <a href="mailto:erik@thauvin.net">Erik C. Thauvin</a>
  * @version $Revision$, $Date$
@@ -112,7 +112,7 @@ public class Robots
 	 *
 	 * @param  userAgent The userAgent.
 	 *
-	 * @return <code>true</code> if the user agent is a robot, <code>false</code> otherwise.
+	 * @return <code>true</code> if the user-agent is a robot, <code>false</code> otherwise.
 	 */
 	public static boolean isRobot(String userAgent)
 	{
